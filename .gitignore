@@ -1,0 +1,16 @@
+# Node modules for React frontend
+frontend/node_modules/
+
+# Composer vendor folder for Laravel backend
+backend/vendor/
+
+# Environment files
+frontend/.env
+backend/.env
+
+# Laravel storage and cache files
+backend/storage/
+backend/bootstrap/cache/
+
+# Logs
+*.log
